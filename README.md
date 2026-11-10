@@ -410,3 +410,4 @@ Mon portfolio rassemble ainsi mes travaux en :
 <p align="center">
   <b>📡 Télécommunications • 📻 Radiocommunications • 🌐 Réseaux • 🛰️ Systèmes spatiaux • ✈️ Aéronautique</b>
 </p>
+<img src="profil.jpg" alt="Nelson Toguep" width="150">
